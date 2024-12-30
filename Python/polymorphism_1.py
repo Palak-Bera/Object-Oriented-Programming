@@ -1,4 +1,4 @@
-# Polymoprhism: Method Overloading
+# Polymoprhism: Method Overloading (compile time polymorphism or static polymorphism)
 # Method Overloading: Same method name with different number of arguments
 # technically Method overloading is not supported in Python
 # But we can achieve this by using default arguments

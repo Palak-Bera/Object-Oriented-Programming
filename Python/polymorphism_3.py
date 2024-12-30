@@ -1,5 +1,4 @@
-# Method overriding
-# compile time polymorphism or static polymorphism
+# Method overriding ( Dynamic polymorphism)
 
 
 
