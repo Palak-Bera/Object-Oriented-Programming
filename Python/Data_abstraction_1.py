@@ -6,7 +6,7 @@
 # An abstract class serves as a blueprint for other classes.
 # you cannot create an instance of an abstract class.
 
-
+#
 
 from abc import ABC, abstractmethod
 

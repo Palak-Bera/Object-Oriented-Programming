@@ -1,5 +1,5 @@
 # interface: A class that contains only abstract methods. It can't be instantiated, but other classes can inherit from it.
-
+#
 
 from abc import ABC, abstractmethod
 

@@ -3,7 +3,7 @@
 # technically Method overloading is not supported in Python
 # But we can achieve this by using default arguments
 
-
+# Polymorphism is a concept in programming where a single function, method, or object can take on multiple forms. 
 
 class Geometry:
     def area(self):
